@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url:
 date_format: "ordinal"
 title: always
 subtitle: ""
@@ -80,7 +80,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+#subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
